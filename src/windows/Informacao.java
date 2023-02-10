@@ -55,16 +55,10 @@ public class Informacao extends javax.swing.JDialog {
             }
         });
         getContentPane().setLayout(null);
-
-        lblPeso1.setText("jLabel1");
         getContentPane().add(lblPeso1);
         lblPeso1.setBounds(50, 30, 240, 30);
-
-        lblPeso2.setText("jLabel2");
         getContentPane().add(lblPeso2);
         lblPeso2.setBounds(50, 110, 240, 31);
-
-        lblMaiorI.setText("jLabel3");
         getContentPane().add(lblMaiorI);
         lblMaiorI.setBounds(50, 220, 340, 28);
 
